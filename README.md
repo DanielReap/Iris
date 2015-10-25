@@ -4,7 +4,7 @@ IRC (Internet Relay Chat) Bot with 20+ useful commands and features
 Commands
 <hr>
 .ping - Ping to see if you're connected/or if Iris is connected<br>
-!8ball <question> - Ask a question and let 8ball do it's thing<br>
+!8ball \<question> - Ask a question and let 8ball do it's thing<br>
 !cf <host> - Cloudflare resolver<br>
 !skype <skype name> - Skype Resolver<br>
 !getskype <ip> - Get skype based on IP<br>
