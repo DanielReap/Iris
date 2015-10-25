@@ -1,5 +1,6 @@
 # Iris
 IRC (Internet Relay Chat) Bot with 20+ useful commands and features
+Created by Intangere and (<a href="https://github.com/DanielReap/">Dan</a>)
 <hr>
 Commands
 <hr>
