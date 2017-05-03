@@ -1,1 +1,1 @@
-access_list = ['niggerbread', 'Photonic', 'Lynx', 'cal', 'widd', 'Grimz', 'atlas']
+access_list = []
